@@ -1,0 +1,249 @@
+{
+	"id": "1c30bee0-29df-4662-8abe-f961ca67363c",
+	"values": [
+		{
+			"key": "username",
+			"value": "admin",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "pwd",
+			"value": "admin",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "secret",
+			"value": "eunGKas3Pqd6FMwx9eUpdS7xmz",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "integration",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "type",
+			"value": "password",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "offlineLicenseUrl",
+			"value": "10.32.6.254:8048",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cnBaseUrl",
+			"value": "10.32.5.213:51980",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cnBasicToken",
+			"value": "6D3C612AC315F9013FE2A24F9C91228244388CB3CEAF71009921033958A64A59",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "enBasicToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "10.32.6.162:51980",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "api_DstExportToken",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "global_Non_admin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orgAdmin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_Non_admin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "global_Non_admin_Token_CN",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orgAdmin_Token_CN",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "readWritePermi",
+			"value": "\"Execute\",\"Read\",\"Update\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "fullControlPermi",
+			"value": "\"FullControl\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "readPermi",
+			"value": "\"Execute\", \"Read\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "excutePermis",
+			"value": "\"Execute\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "org_Non_Admin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_nonAdmin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_Admin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orgNonadmin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Admin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "global_admin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "global_Non_admin1_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_Non_Admin2_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_Non_Admin3_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "suborgAdmin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "apiTestUser_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "exportPermi",
+			"value": "\"Read\", \"Export\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "global_Non_admin_userId",
+			"value": "ebd767ea-81ef-4b0f-8cbb-58b05aa2f6a3",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_Non_Admin_Token3",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "mysqlConnectString",
+			"value": "Server=172.16.10.18;Port=3306;Database=autotestlesson;Uid=gces;Pwd=xA123456;",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cn_orgAdmin_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orgAdmin_Token_Global",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "org_Non_admin_Global_Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CN_license_key",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-02-06T09:06:55.781Z",
+	"_postman_exported_using": "Postman/10.22.6"
+}
