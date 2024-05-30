@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "2589ee3d-5876-49f8-88cc-42721e6eb32c",
+		"name": "Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22410646"
+	},
+	"item": [
+		{
+			"name": "searchDocId",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{'query': 'mutation updatePreference {updatePreference(userTheme: \\\"Blue\\\", userLanguage: \\\"en-us\\\")}'}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51980/api/graphql?token=B9076D54D7FEA0EFF14645FD00E28E9E7DBA404723883DDFA44DF73707149489",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51980",
+					"path": [
+						"api",
+						"graphql"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "B9076D54D7FEA0EFF14645FD00E28E9E7DBA404723883DDFA44DF73707149489"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
